@@ -1,3 +1,3 @@
 # arduino-sensors
 
-##Temparatuee=
+##Temparatue
