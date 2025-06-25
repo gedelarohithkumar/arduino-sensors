@@ -1,0 +1,26 @@
+Detect moisture levels in the air
+A humidity sensor also known as a hygrometer is a device that detects and measures the amount of water vapor in the air. It plays a crucial role in applications ranging from weather monitoring and HVAC systems to industrial processes and even smart farming.
+There are several types of humidity sensors, but the most common are:
+Capacitive sensors: These measure humidity by detecting changes in electrical capacitance caused by moisture in a dielectric material.
+Resistive sensors: These work by measuring changes in the electrical resistance of a hygroscopic (moisture-absorbing) material.
+Thermal sensors: These measure humidity based on the difference in thermal conductivity between dry air and humid air.
+Modern versions often come bundled with temperature sensors and are used in devices like air purifiers, thermostats, and smartphones. If you’re thinking of integrating one into a project or just curious about how they work.
+
+HOW IT WORKS:-
+Great follow-up! Here’s a breakdown of how a humidity sensor works:
+
+At its core, a humidity sensor measures the **amount of water vapor in the air** and converts that into an electrical signal that can be read and interpreted.
+
+Let's take the capacitive type as an example:
+1.Structure: It usually consists of two electrodes with a hygroscopic (moisture-absorbing) dielectric material in between.
+2.How it reacts to humidity: As humidity increases, the dielectric constant of that moisture-sensitive material changes.
+3.Electrical response: This change alters the capacitance between the electrodes. The sensor detects this shift and outputs a corresponding voltage or digital signal that represents the humidity level.
+
+For a resistive type:
+1.The sensor has a material whose electrical resistance changes depending on how much moisture it has absorbed from the air.
+2.As humidity goes up, the resistance typically decreases, and that change is used to determine the relative humidity.
+
+Thermal sensors are a bit different:
+They use two thermistors—one exposed to air and the other sealed in dry gas. By comparing how the surrounding air affects their temperatures, the humidity level can be inferred.
+
+Humidity sensors can be incredibly sensitive and accurate, especially when calibrated correctly. Many modern ones come bundled with a temperature sensor too, since temperature affects how much moisture air can hold.
