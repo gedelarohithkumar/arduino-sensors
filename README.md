@@ -12,8 +12,6 @@ Welcome to the **Arduino Sensor Lab** — a collection of individual sensor-base
 ## 📂 Folder Structure
 
 
-<<<<<<< HEAD
-=======
 ---
 
 ## 📘 Index of Sensors
@@ -48,4 +46,3 @@ Welcome to the **Arduino Sensor Lab** — a collection of individual sensor-base
    git clone https://github.com/yourname/arduino-sensors.git
    cd arduino-sensors
 
->>>>>>> 308a6002ba4b132238850e7d63881e616fad131b
