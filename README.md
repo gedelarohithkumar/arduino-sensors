@@ -12,13 +12,15 @@ Welcome to the **Arduino Sensor Lab** — a collection of individual sensor-base
 ## 📂 Folder Structure
 
 
+<<<<<<< HEAD
+=======
 ---
 
 ## 📘 Index of Sensors
 
 | Sensor Name         | Folder         | Description                                  |
 |---------------------|----------------|----------------------------------------------|
-| 🌡️ DHT11            | [DHT11](./DHT11/)            | Temperature and Humidity Sensor              |
+| 🌡️ DHT11            | [Temperature and Humidity](./Temperature_Humidity/)            | Temperature and Humidity Sensor              |
 | 📏 Ultrasonic (HC-SR04) | [Ultrasonic](./Ultrasonic/) | Distance measurement using echo time         |
 | 👀 IR Obstacle Avoidance | [IR_Sensor](./IR_Sensor/)  | Detects nearby objects using infrared light  |
 | 🔊 Sound Sensor     | [Sound_Sensor](./Sound_Sensor/) | Sound intensity detection                   |
@@ -45,3 +47,5 @@ Welcome to the **Arduino Sensor Lab** — a collection of individual sensor-base
    ```bash
    git clone https://github.com/yourname/arduino-sensors.git
    cd arduino-sensors
+
+>>>>>>> 308a6002ba4b132238850e7d63881e616fad131b
