@@ -1,0 +1,33 @@
+📊 Results
+
+After uploading the code and opening the Serial Monitor (baud rate: 9600), the Arduino begins reading temperature and humidity values from the DHT11 sensor every 2 seconds.
+📥 Sample Output from Serial Monitor
+
+Reading DHT11 Temperature and Humidity Sensor...
+Humidity: 58.00 %	Temperature: 27.00 °C / 80.60 °F
+Humidity: 57.00 %	Temperature: 27.00 °C / 80.60 °F
+Humidity: 56.00 %	Temperature: 26.00 °C / 78.80 °F
+Humidity: 55.00 %	Temperature: 26.00 °C / 78.80 °F
+Humidity: 55.00 %	Temperature: 25.00 °C / 77.00 °F
+
+📈 Observations
+
+    The DHT11 sensor updates data every ~2 seconds.
+
+    Small variations in readings occur due to environmental factors.
+
+    If NaN (Not a Number) is received, it indicates a failed sensor read.
+
+📌 Notes
+
+    Ensure stable wiring; loose connections may cause read failures.
+
+    Ideal operating range for DHT11:
+
+        Temperature: 0–50 °C (±2 °C accuracy)
+
+        Humidity: 20–90% RH (±5% accuracy)
+
+    Use DHT22 for improved accuracy and range.
+
+Youtube Link : https://www.youtube.com/watch?v=OogldLc9uYc
